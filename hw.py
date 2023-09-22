@@ -1,1 +1,1 @@
-print('Hi,my name is Ruslan,happy to work with you!!!')
+print('Меняем текст в прямом эфире')
